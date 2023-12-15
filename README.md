@@ -10,7 +10,7 @@ Please follow those instruction to reproduce our results:
 
 0) Download the files on your machines
    Make sure to extract zip files. In particular, merge the content of "ZH canton part 1" and "ZH canton part 2" into a single folder called "ZH canton"
-   Download the shapefile called "Gebäudealter.shp" on the following page: https://data.stadt-zuerich.ch/dataset/ktzh_gebaeudealter__ogd_ and save it in folder "ZH canton"
+   Download the shapefile called "Gebäudealter.shp" on the following page: https://data.stadt-zuerich.ch/dataset/ktzh_gebaeudealter__ogd_ and save it in folder "ZH canton" as well.
 
 2) Run Immobilier.ch_scrapping_Selenium.py
    Keep in mind that Selenium takes quie some time to run depending on the number of pages to scrap.
