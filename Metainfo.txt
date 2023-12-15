@@ -1,0 +1,11 @@
+Name of QuantLet : 'SDA_Rental_Prices'
+
+Published in : 'mmooklek'
+
+Description : 'To scrap and analyze real estate rental prices in Zurich'
+
+Keywords : 'mmooklek, SDA_Rental_Prices'
+
+Author : 'Jidapa Longthaisong & Quentin Leoni'
+
+Submitted : Tue, Dec 15 2023
